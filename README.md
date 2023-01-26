@@ -15,3 +15,5 @@ Aprendemos também, a como utilizar um CRUD dentro de uma API. (Creat, Read, Upd
 É demonstrado também, o uso de Post, Put e Delete.
 
 É utilizado também, um Middleware, aonde é realizado funções para colocarmos critérios e retornarmos erros na questão.
+
+Para controle de meu server interno, eu utilizo a ferramenta Insomnia (https://insomnia.rest/download).
